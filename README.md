@@ -3,7 +3,7 @@
     <img alt="GoRestaurant" width="900" title="#logo" src="./github_assets/banner.png">
     <br>
 </h3>
-<p align="initial"> 🚀 <strong> Github Explorer:</strong> Application to create, edit and delete italian food.
+<p align="initial"> 🚀 <strong> GoRestaurant:</strong> Application to create, edit and delete italian food.
  </p>
  
 # :pushpin: Table of Contents
@@ -23,6 +23,7 @@ The project was developed using the following technologies
 ### :exclamation: React Application
 To start the aplication clone this repository and use the commands:
 ```bash
+yarn install // npm install
 yarn start// npm start
 ```
 ---
